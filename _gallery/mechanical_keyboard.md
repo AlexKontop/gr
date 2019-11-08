@@ -1,7 +1,7 @@
 ---
 author: AlexKontop
-title: Mechanical_Keyboard
-image_url: Mechanical_Keyboard.jpg
+title: mechanical_keyboard
+image_url: mechanical_keyboard.jpg
 caption: 'Ένα μηχανικό πληκτρολόγιο έχει πραγματικούς, φυσικούς διακόπτες στην κάτω μεριά των κουμπιών που
 δημιουργούν την αίσθηση πληκτρολόγησης σε μια γραφομηχανή.
 Το πληκτρολόγιο είναι μια περιφερειακή συσκευή, απολύτως απαραίτητη για κάθε ηλεκτρονικό υπολογιστή.
