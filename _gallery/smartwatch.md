@@ -1,7 +1,7 @@
 ---
 author: AlexKontop
-title: Smartwatch
-image_url: Smartwatch.jpg
+title: smartwatch
+image_url: smartwatch.jpg
 caption: 'Ένα smartwatch είναι ένας φορητός υπολογιστής με οθόνη αφής και έχει την μορφή ρολογιού χειρός.
 Μπορούν να εκτελούν λειτουργίες οπως: υπολογισμούς, μεταφράσεις, αναπαραγωγή παιχνιδιών, αρχείων ήχου, βίντεο
 και επιτρέπουν την σύνδεση με WiFi / Bluetooth.
